@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820936383631",
+    "firebase_url": "https://instamessenger-58fc7.firebaseio.com",
+    "project_id": "instamessenger-58fc7",
+    "storage_bucket": "instamessenger-58fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820936383631:android:9752cb630dcdf950",
+        "android_client_info": {
+          "package_name": "com.example.puneeth.grocerymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820936383631-50lr0nh63u57hqab7m86026shhdpnq7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puneeth.grocerymanagement",
+            "certificate_hash": "5853d0325e867e403d5b12a39615e3accc5e0bc5"
+          }
+        },
+        {
+          "client_id": "820936383631-luvc64cksb2n85eacfje2jjpgu9teesm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt7pqim-RpG7ymhLgzHVghsMC7Bwokw0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820936383631-luvc64cksb2n85eacfje2jjpgu9teesm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
